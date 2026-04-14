@@ -15,35 +15,25 @@ The dataset contains:
 - Order Date 
 
 # Dashboard Features
-  - KPI Cards  
+  * KPI Cards  
   - Total Sales  
   - Total Profit  
 
-  - Bar Chart
+  * Bar Chart
   - Sales by Category  
 
-- **Line Chart**  
+  * Line Chart 
   - Sales Trend Over Time  
 
-- **Slicer (Filter)**  
+  * Slicer (Filter)
   - Region-wise filtering  
-
----
-
 
 
 ## 📸 Dashboard Preview
-(Add your screenshot here)
+<img width="1276" height="733" alt="Image" src="https://github.com/user-attachments/assets/c74f99d1-9549-409f-b2ad-5d83b1d913d3" />
 
----
-
-## 🚀 Outcome
+# Outcome
 Developed an interactive dashboard that converts raw data into meaningful insights, enabling better business decisions.
-
-- PPT Presentation  
-- Dashboard Screenshot  
-
----
 
 # Conclusion
 This project demonstrates how data visualization tools like Power BI can help analyze business performance effectively and support decision-making.
